@@ -1,0 +1,23 @@
+# R
+.Rhistory
+.RData
+.Rproj.user
+*.Rproj
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data files (too large / not ours to distribute)
+*.xpt
+*.sas7bdat
+*.RData
+*.rds
+
+# Output files
+*.docx
+*.tiff
+*.png
+*.pdf
+*.html
+*.csv
